@@ -21,10 +21,10 @@ content-type: application/json
     }
 
 ### GET on Render    
-GET https://painterscorner.onrender.com/api-docs HTTP/1.1
+GET painterscorner.onrender.com/api-docs HTTP/1.1
 
 ### GET by _id on Render 
-GET https://painterscorner.onrender.com/api-docs/6329c369d876ca3c2783bea9 HTTP/1.1
+GET painterscorner.onrender.com/api-docs/6329c369d876ca3c2783bea9 HTTP/1.1
  
 ### Add new customer 
 POST http://painterscorner.onrender.com/api-docs HTTP/1.1
