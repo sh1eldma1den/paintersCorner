@@ -2,7 +2,7 @@ const swaggerAutogen = require('swagger-autogen')();
 
 const doc = {
     info: {
-        title: "Painters'Corner",
+        title: "Painters' Corner",
         description: 'Classes, supplies, and customer information.',
     },
     host: 'painterscorner.onrender.com',

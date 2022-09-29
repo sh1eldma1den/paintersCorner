@@ -5,7 +5,7 @@
     "description": "Classes, supplies, and customer information.",
     "version": "1.0.0"
   },
-  "host": "https://painterscorner.onrender.com",
+  "host": "painterscorner.onrender.com",
   "basePath": "/",
   "schemes": [
     "https"
