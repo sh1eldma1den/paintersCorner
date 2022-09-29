@@ -18,9 +18,9 @@
         "responses": {}
       }
     },
-    "/": {
+    "/customers/": {
       "get": {
-        "description": "",
+        "description": "Look up all customers.",
         "produces": [
           "application/json"
         ],
@@ -32,7 +32,7 @@
         }
       },
       "post": {
-        "description": "",
+        "description": "Add a new customer entry.",
         "parameters": [
           {
             "name": "body",
@@ -78,7 +78,7 @@
         }
       }
     },
-    "/{id}": {
+    "/customers/{id}": {
       "get": {
         "description": "",
         "produces": [

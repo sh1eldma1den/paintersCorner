@@ -5,7 +5,7 @@ const doc = {
         title: "Painters'Corner",
         description: 'Classes, supplies, and customer information.',
     },
-    host: 'https://painterscorner.onrender.com',
+    host: 'painterscorner.onrender.com',
     schemes: ['https']
 };
 
